@@ -1,0 +1,1 @@
+<input type="submit" id="id_submitbutton" name="downloadgrade" formaction="http://localhost/moodleBM/report/report_pstgu_deanery/index.php?id=2&amp;page=5">Выгрузить оценки за курс</input>

@@ -1,0 +1,11 @@
+*.xml
+*.txt
+*.log
+!db/install.xml
+connection_settings.ini
+*.ini
+*.sql
+
+sql_debug.sql
+*.sql
+amd12/
